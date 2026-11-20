@@ -1,1 +1,0 @@
-SELECT AVG(list_price)AS átlag, product_name FROM products;

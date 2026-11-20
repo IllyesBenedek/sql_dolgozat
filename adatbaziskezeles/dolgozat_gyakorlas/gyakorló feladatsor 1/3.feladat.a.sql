@@ -1,1 +1,0 @@
-SELECT MIN(list_price )AS legolcsóbb, product_name FROM products;

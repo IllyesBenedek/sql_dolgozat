@@ -1,1 +1,0 @@
-SELECT SUM(list_price)AS összeg, product_name FROM products;
